@@ -4,8 +4,8 @@
 -- Engine: InnoDB (needed for FK + transactions)
 -- ============================================================
 
-CREATE DATABASE IF NOT EXISTS accountpro CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE accountpro;
+-- CREATE DATABASE IF NOT EXISTS accountpro CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+-- USE accountpro;
 
 -- ---------- COMPANY / SETTINGS ----------
 CREATE TABLE companies (
